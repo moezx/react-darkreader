@@ -1,6 +1,6 @@
 {
   "name": "@moezx/react-darkreader",
-  "version": "1.5.6",
+  "version": "1.5.6-1",
   "description": "A React Hook for adding a dark / night mode to your site inspired by darkreader",
   "keywords": [
     "react",
